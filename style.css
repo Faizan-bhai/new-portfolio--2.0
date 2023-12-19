@@ -9,6 +9,7 @@
 
 body {
   font-family: "Poppins", sans-serif;
+ 
 }
 
 html {
@@ -432,7 +433,9 @@ article .icon {
 
 footer {
   height: 26vh;
-  margin: 0 1rem;
+  width: 100%;
+  margin-bottom: 0;
+ 
 }
 
 
